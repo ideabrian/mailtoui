@@ -15,9 +15,15 @@
 
 ## Introduction
 
-MailtoUI is a JavaScript library that enhances your mailto links with a convenient user interface. It gives your users the flexibility to compose a new message using a browser-based email client <strong><i>or</i></strong> their default local email app.
+With MailtoUI, you save time by not setting up "Contact Us" form.
 
-MailtoUI is ideal for static sites or any other site where you don't want to spend time setting up a "Contact Us" form solution.
+Turn mailto links into a convenient user interface. 
+
+MailtoUI is a JavaScript library.  
+
+A plain mailto link will open your default mail application. 
+MailtoUI provides a choice. Compose a new message using a browser-based email client <strong><i>or</i></strong> a default email app.
+
 
 ## Quick Setup
 
@@ -48,12 +54,16 @@ That's it! Your mailto link is now using MailtoUI. Refresh your page and try it 
 
 ## Documentation
 
-For full documentation, visit [mailtoui.com](https://mailtoui.com).
+For full documentation, visit [mailtoui.com][1].
 
 ## Contributing
 
-If you're interested in contributing to MailtoUI, please follow the directions in the [contributing docs](https://github.com/mariordev/mailtoui/blob/master/.github/CONTRIBUTING.md) **before working on a pull request**.
+If you're interested in contributing to MailtoUI, please follow the directions in the [contributing docs][2] **before working on a pull request**.
 
 ## License
 
-[MIT](https://github.com/mariordev/mailtoui/blob/master/LICENSE)
+[MIT][3]
+
+[1]:	https://mailtoui.com
+[2]:	https://github.com/mariordev/mailtoui/blob/master/.github/CONTRIBUTING.md
+[3]:	https://github.com/mariordev/mailtoui/blob/master/LICENSE
